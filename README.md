@@ -31,8 +31,4 @@ Hello! I'm **Adithya**, a passionate **Java Developer & Full-Stack Engineer** wi
 
 ---
 
-📫 **Reach Out To Me:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/adithya/)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- ✉️ Email: adithya@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
